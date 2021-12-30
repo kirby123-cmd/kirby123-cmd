@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kirby123-cmd
-- 👀 I’m interested in Programming ...
-- 🌱 I’m currently learning Machine learing ...
-- 💞️ I’m looking to collaborate on Machine learning projects...
-- 📫 How to reach me:kirubaselvi40805@gmail.com ...
+# **hey👋 I am Kiri**
 
-<!---
-kirby123-cmd/kirby123-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://community.gamepress.gg/uploads/default/original/3X/0/4/04a0d96f0f27ae916a1cb173bb3f4f1800bf3aa8.gif) 
+
+
