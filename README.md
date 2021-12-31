@@ -1,5 +1,5 @@
  
- <img align="left" alt="GIF" src="https://community.gamepress.gg/uploads/default/original/3X/0/4/04a0d96f0f27ae916a1cb173bb3f4f1800bf3aa8.gif" width="600" height="390" />
+ <img align="left" alt="GIF" src="https://community.gamepress.gg/uploads/default/original/3X/0/4/04a0d96f0f27ae916a1cb173bb3f4f1800bf3aa8.gif" width="400" height="390" />
 
 
 
