@@ -1,29 +1,31 @@
  
- <img align="left" alt="GIF" src="https://community.gamepress.gg/uploads/default/original/3X/0/4/04a0d96f0f27ae916a1cb173bb3f4f1800bf3aa8.gif" width="400" height="320" />
+ <img align="left" alt="GIF" src="https://community.gamepress.gg/uploads/default/original/3X/0/4/04a0d96f0f27ae916a1cb173bb3f4f1800bf3aa8.gif" width="600" height="390" />
 
 
 
  # Hey there !
 
       - I am kiri
-      - I love anything data
-      - I also love coffee(without sugar)
+      - I solve Mysteries 
+      - I google everyday 
+      - I love Data
       
-<!-- ## What do I do
+ # Visitors count   
+![kiruba](https://count.getloli.com/get/@:kiruba)
+      
 
-<div align=left>
-I am a dedective,yes seriously
 
-I collect the data for the case 
 
-I ask questions about the case 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirby123-cmd&layout=compact"/>
 
-I find the mysteries
 
-I solve the mysteries
+## Tools I use to solve Mysteries
 
-And I show off to the folks
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Excel
+- ✅ ⁠ ⁢⁣⁡⁠ SQL
+- ✅ ⁠  Power BI
 
-## Tools I use to solve the case -->
+
 
 
