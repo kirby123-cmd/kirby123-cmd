@@ -21,15 +21,37 @@
 
 ## Tools I use to solve Mysteries
 
-  ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
-  ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Excel
-  ✅ ⁠ ⁢⁣⁡⁠ SQL
-  ✅ ⁠  Power BI
-  ✅ ⁠  Scikit-learn
+ - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
+ - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Excel
+ - ✅ ⁠ ⁢⁣⁡⁠ SQL
+ - ✅ ⁠  Power BI
+ - ✅ ⁠  Scikit-learn
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kirby123-cmd&layout=compact&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<br>
+
+
+
+
+
+
+
+
+# I consider myself as a a detective,while working with data ,you can look into the pinned projects below,I will upload the readme file soon.
+
+
+
 
 <br>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/qRcL0DWQsGEa4/giphy.gif" width="500" height="390" />
+
+
+
+
+
+
+
+
 
 
 
