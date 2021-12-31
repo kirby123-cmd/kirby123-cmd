@@ -11,7 +11,7 @@
       - I love Data
       
  # Visitors count   
-![kiruba](https://count.getloli.com/get/@:kiruba)
+![kiruba](https://count.getloli.com/get/@:kiri)
       
 
 
