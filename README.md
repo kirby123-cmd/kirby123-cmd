@@ -33,7 +33,7 @@
 
  # Yup !
 
-      - I consider myself as a dedective while working with data
+      - I consider myself as a detective while working with data
       - you can look at the pinned project below,I will upload the readme file soon
      
       
